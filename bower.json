@@ -1,0 +1,20 @@
+{
+  "name": "wangular",
+  "version": "0.0.0",
+  "authors": [
+    "Slava Belokurski <slavchoo2@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.1",
+    "bootstrap": "~3.0.2",
+    "underscore": "~1.5.2"
+  }
+}
